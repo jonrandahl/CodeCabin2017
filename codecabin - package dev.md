@@ -74,7 +74,3 @@
 - role/authentiation/authourisation providers
 - should be role based auth model
 - fluidity ~ read only mode
-
-
-
-# codereview.com
